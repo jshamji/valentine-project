@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.io/jshamji/valentine-project",
+  "homepage": "https://jshamji.github.io/valentine-project/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
