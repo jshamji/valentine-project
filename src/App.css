@@ -1,0 +1,19 @@
+.app {
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;   /* <— stack heading then buttons */
+  align-items: center;      /* <— center them horizontally */
+  justify-content: center;  /* optional, if you also want vertical centering */
+  min-height: 100vh;     
+}
+
+.buttons {
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.always-move {
+  position: absolute;
+}
