@@ -75,7 +75,7 @@ function App() {
           </Typography>
 
           <Typography id="celebration-description" sx={{ mt: 2 }}>
-            Looks like you made the right decision  - just joking, you've made my day MY UFFERSSSSS 💙🤍
+            Count yourself as a lucky gyal  - just joking, you've made my day MY UFFERSSSSS 💙🤍
           </Typography>
 
           <img
