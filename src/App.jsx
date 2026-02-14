@@ -36,7 +36,7 @@ function App() {
     setShowConfetti(true)
     setOpen(true)
 
-    setTimeout(() => setShowConfetti(false), 5000)
+    // setTimeout(() => setShowConfetti(false), 5000)
   }
 
   const handleClose = () => {
